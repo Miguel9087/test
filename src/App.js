@@ -12,6 +12,7 @@ class App extends Component {
           <p>hecho por Miguel par hacer pruebas del ejercicio</p>
           <p>hecho por Miguel par hacer pruebas del ejercicio por segunda vez</p>
           <p>hecho por Miguel par hacer pruebas del ejercicio por segunda vez</p>
+          <p>hecho por Miguel par hacer pruebas del ejercicio por segunda vez</p>
           <p>Lo que sea: Hecho por TonyM </p>
           <p>Lo que sea: Hecho por TonyM doble vez </p>
           <p>Lo que sea: Hecho por TonyM triple vez </p>
