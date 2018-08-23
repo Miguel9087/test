@@ -10,6 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to React</h1>
           <p>hecho por Miguel par hacer pruebas del ejercicio</p>
+          <p>hecho por Miguel par hacer pruebas del ejercicio por segunda vez</p>
           <p>Lo que sea: Hecho por TonyM </p>
           <p>Lo que sea: Hecho por TonyM doble vez </p>
           <p>Lo que sea: Hecho por TonyM triple vez </p>
